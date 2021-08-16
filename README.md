@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aashutosh-922
-- 👀 I’m interested in HTML CSS JS  PHP C C++ Python SQL Android Java 
-- 🌱 I’m currently learning CSS C
+- 👀 I’m interested in Competitive Programming, DSA, HTML, CSS, JS,  PHP, C, C++, Python, SQL, Kotlin, Java, React.js, node.js 
+- 🌱 I’m currently learning C++,DSA & Javascript
 - 💞️ I’m looking to collaborate with a tech. giant
 - 📫 How to reach me Akola,Maharashtra
 
