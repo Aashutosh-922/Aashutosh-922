@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aashutosh-922
 - 👀 I’m interested in Robotics, Competitive Programming, DSA, CPP, Java, Flutter, Elixir, IOT & Web Dev.
 - 🌱 I’m currently learning Data Structures and Algorithms & Javascript
-- 💞️ I’m looking to collaborate with a tech. giant
+- 💞️ I’m looking for a frontend development intenship.
 - 📫 How to reach me Akola,Maharashtra
