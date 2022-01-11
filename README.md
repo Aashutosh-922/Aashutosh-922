@@ -17,7 +17,7 @@
 
 - 👨‍💻 All about me available at [https://aashutoshk922.netlify.app/](https://aashutoshk922.netlify.app/)
 
-- 📝 Looking Forward to [Write Technical Content.](Write Technical Content.)
+- 📝 Looking Forward to Write some Technical Content.
 
 - 💬 Ask me about **Frontend Web Development, C++ & Android.**
 
