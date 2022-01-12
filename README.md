@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashutosh Karale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashutosh-922&label=Profile%20views&color=0e75b6&style=flat" alt="aashutosh-922" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All about me available at [https://aashutoshk922.netlify.app/](https://aashutoshk922.netlify.app/)
 
-- 📝 Looking Forward to Write some Technical Content.
+- 📝 Looking Forward to **Write some Technical Content.**
 
 - 💬 Ask me about **Frontend Web Development, C++ & Android.**
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11yQjlH0g9fOmFvl6sJ9rZ5eDMSmjG2Ja/view](https://drive.google.com/file/d/11yQjlH0g9fOmFvl6sJ9rZ5eDMSmjG2Ja/view)
 
-- ⚡ Fun fact **I can be funny sometimes!**
+- ⚡ **I can be funny sometimes!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
