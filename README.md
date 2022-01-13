@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Akola, Maharashtra.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11yQjlH0g9fOmFvl6sJ9rZ5eDMSmjG2Ja/view](https://drive.google.com/file/d/11yQjlH0g9fOmFvl6sJ9rZ5eDMSmjG2Ja/view)
+- 📄 Know about my experiences [:-Resume](https://drive.google.com/file/d/1em8TWJwh8Gj9NHhwEOgIDTi0I2gEn1X5/view?usp=sharing)
 
 - ⚡ **I can be funny sometimes!**
 
