@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Frontend Development Internship.**
 
-- 👨‍💻 All about me available at [https://aashutoshk922.netlify.app/](https://aashutoshk922.netlify.app/)
+- 👨‍💻 All about me available at [my Portfolio](https://aashutoshk922.netlify.app/)
 
 - 📝 Looking Forward to **Write some Technical Content.**
 
