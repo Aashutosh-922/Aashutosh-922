@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Frontend Development Internship.**
 
-- 👨‍💻 All about me available at [my Portfolio](https://aashutoshk922.netlify.app/)
+- 👨‍💻 All about me available at [Portfolio](https://aashutoshk922.netlify.app/)
 
 - 📝 Looking Forward to **Write some Technical Content.**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Akola, Maharashtra.**
 
-- 📄 Know about my experiences [:-Resume](https://drive.google.com/file/d/1em8TWJwh8Gj9NHhwEOgIDTi0I2gEn1X5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1em8TWJwh8Gj9NHhwEOgIDTi0I2gEn1X5/view?usp=sharing)
 
 - ⚡ **I can be funny sometimes!**
 
