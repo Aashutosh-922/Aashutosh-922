@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/karaleaashutosh" target="blank"><img src="https://img.shields.io/twitter/follow/karaleaashutosh?logo=twitter&style=for-the-badge" alt="karaleaashutosh" /></a> </p>
 
-- 🔭 I’m currently working on [RCR Application.](https://github.com/Aashutosh-922/Component_Register_RNXG-RCR-)
+- 🔭 I’m currently working on [RNXG Website](https://github.com/adwait12345/rnxg)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms & Javascript.**
 
