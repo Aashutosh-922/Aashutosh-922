@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJs & ROS.**
 
-- 👯 I’m interested in **Robotics, Competitive Programming, Flutter, Elixir, IOT.**
+- 👯 I’m interested in **Robotics,ReactJS, MongoDB, NOdeJS/ExpressJS, Flutter, Elixir, IOT.**
 
 - 🤝 I’m looking for help with **Frontend/Backend Development Internship.**
 
