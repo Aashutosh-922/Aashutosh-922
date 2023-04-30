@@ -19,7 +19,7 @@
 
 - 📝 Looking Forward to **Write some Technical Content.**
 
-- 💬 Ask me about **Full-Stack Development, C++, Firebase, Python, ROS & Android.**
+- 💬 Ask me about **Full-Stack Development, C++, Firebase, Python, OpenCV & Android.**
 
 - 📫 How to reach me **Akola, Maharashtra.**
 
