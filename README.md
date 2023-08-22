@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Permission-Tracker<br>👯  I’m interested in Robotics, ReactJS, MongoDB, NodeJS/ExpressJS, Flutter, Elixir, IOT.<br>🤝 I’m looking for help with Fullstack Development Internship.<br>🌱 I’m currently learning NextJs & ROS.<br>💬 Ask me about Full-Stack Development, C++, Firebase, Python, OpenCV & Android.<br>⚡ Fun fact : Viewer ji internship dilado!
 
 
